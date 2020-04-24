@@ -1,0 +1,5 @@
+{
+    "mongoURL": "mongodb://localhost:27017/shoppingList",
+    "jwtSecret": "sl_myJwtSecret"
+    
+}
